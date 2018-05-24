@@ -4,13 +4,9 @@ This sample App goes for selecting the location on mapview and custom name will 
 Prerequisites
 
 Android SDK v26
-
 Latest Android Build Tools
-
 Android Support Repository
-
 Getting started
-
 This sample uses the Gradle build system.
 
 Download the samples by cloning this repository or downloading an archived snapshot. (See the options at the top of the page.)
